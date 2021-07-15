@@ -27,11 +27,12 @@ lantoniotrento@gmail.com
         <link rel="stylesheet" href="{{ BASE_PATH }}/assets/css/owl.carousel.css">
         <link rel="stylesheet" href="{{ BASE_PATH }}/assets/css/owl.theme.css">
         <link rel="stylesheet" href="{{ BASE_PATH }}/assets/css/responsive.css">
-        <link rel="stylesheet" href="{{ BASE_PATH }}/assets/css/scrolling-nav.css">	  
+        <link rel="stylesheet" href="{{ BASE_PATH }}/assets/css/scrolling-nav.css">	
+        <link rel="stylesheet" href="/assets/css/addpjy.css">  
 
 	<!-- CSS loaded by the children page -->
         {% if page.css %}<link rel="stylesheet" type="text/css" href="{{ BASE_PATH }}/assets/css/custom/{{ page.css }}" />{% endif %}
-
+        {% if page.css %}<link rel="stylesheet" type="text/css" href="/assets/css/custom/{{ page.css }}" />{% endif %}
     <meta property="og:title" content="{{ page.title }}">
     <meta property="og:description" content="{{ page.tagline }}">
     <meta property="og:image" content="{{ BASE_PATH }}/assets/img/big/{{ page.img }}">
