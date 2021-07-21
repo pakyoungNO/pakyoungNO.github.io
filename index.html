@@ -145,7 +145,7 @@ canonical: https://heliumjk.github.io
              {% for post in site.posts %}     
               <div class="blog-block blog block carousel-post">
                {% if post.img %}           
-                <img src="{/assets/images/{{ post.img }}" alt="">
+                <img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="">
                {% endif %}           
                 <h5>{{ post.title }}</h5>
                 <p>{{ post.excerpt }}</p>
