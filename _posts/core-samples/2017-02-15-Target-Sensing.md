@@ -18,7 +18,7 @@ canonical: https://fullit.github.io
 ---
 {% include JB/setup %}
 
-An example post about code insertion into posts.
+Target Sensing for High Speed Flying Object using Image Processing
 
 <!--more-->
 ## Testing code snippet highlight
