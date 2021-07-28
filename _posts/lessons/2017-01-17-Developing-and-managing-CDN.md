@@ -18,7 +18,7 @@ canonical: https://heliumjk.github.io
 ---
 {% include JB/setup %}
 
-In this tutorial I will teach you *how to test your Jekyll Bootstrap3* site locally.
+Developing and managing CDN for DASH streaming
 <!--more-->
 
 Jekyll is a parsing engine bundled as a ruby gem used to build static websites from
