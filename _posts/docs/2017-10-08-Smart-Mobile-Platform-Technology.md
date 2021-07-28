@@ -13,7 +13,7 @@ css:
 js: 
 bgcolor: 
 keywords: html, css, markdown, jekyll, docs, jekyllthemes, theme
-canonical: https://fullit.github.io
+canonical: /assets/research/1. User-Customized Smart Mobile Platform Technology for Smart Work & Space Environment.pdf
 
 ---
 {% include JB/setup %}
