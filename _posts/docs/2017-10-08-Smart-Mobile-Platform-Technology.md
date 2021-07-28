@@ -17,8 +17,7 @@ canonical: https://fullit.github.io
 
 ---
 {% include JB/setup %}
-Markdown samples usefull when you start write your blog 🎉 🎆.
-
+User-Customized Smart Mobile Platform Technology for Smart Work & Space Environment
 <!--more-->
 
 # Examples
