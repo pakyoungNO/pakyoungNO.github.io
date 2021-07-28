@@ -14,7 +14,7 @@ css:
 js: 
 bgcolor: ff5a71
 keywords: helium, web desing, css, html, bootstrap 4
-canonical: https://fullit.github.io
+canonical: /assets/research/3. Smart Control Platform Technology for Aging and Disabled Persons Care.pdf
 ---
 {% include JB/setup %}
 
