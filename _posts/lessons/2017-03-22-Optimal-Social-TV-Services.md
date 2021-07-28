@@ -14,7 +14,7 @@ css:
 js: 
 bgcolor: ff5a71
 keywords: helium, web desing, css, html, bootstrap 4
-canonical: https://fullit.github.io
+canonical: /assets/research/2. Optimal Social TV Services Provides User Customization.pdf
 ---
 {% include JB/setup %}
 
