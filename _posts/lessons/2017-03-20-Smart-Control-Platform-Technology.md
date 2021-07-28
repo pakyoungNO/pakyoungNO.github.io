@@ -18,7 +18,7 @@ canonical: https://fullit.github.io
 ---
 {% include JB/setup %}
 
-Jekyll can give you the possibility to make awesome websites in minutes.
+Smart Control Platform Technology for Aging and Disabled Persons Care
 <!--more-->
 That are **more faster than major other sites in the world** 
 
