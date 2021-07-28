@@ -14,7 +14,7 @@ css:
 js: 
 bgcolor: ff5a71
 keywords: helium, html, css, landing page, jekyll, ruby, web marketing, advertising
-canonical: https://heliumjk.github.io
+canonical: /assets/research/5. Developing and managing CDN for DASH streaming.pdf
 ---
 {% include JB/setup %}
 
