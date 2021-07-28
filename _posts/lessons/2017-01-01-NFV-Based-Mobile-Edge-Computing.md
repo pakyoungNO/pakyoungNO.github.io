@@ -14,7 +14,7 @@ css:
 js: 
 bgcolor: ff5a71
 keywords: helium, html, css, landing page, jekyll, ruby, web marketing, advertising
-canonical: https://heliumjk.github.io
+canonical: /assets/research/6. NFV-Based Mobile Edge Computing.pdf
 ---
 {% include JB/setup %}
 NFV-Based Mobile Edge Computing for Lowering Latency of 4K Video Streaming
