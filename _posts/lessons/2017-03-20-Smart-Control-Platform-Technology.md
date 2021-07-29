@@ -3,7 +3,7 @@ layout: post
 category : lessons
 tagline: "Using heliumjk.github.io"
 tags : [bootstrap 4, web desing, jekyll]
-img : helium-jekyll.jpg
+img : /assets/images/blog/[완성]platform또는cloud.png
 img-mobile : 
 img2 : 
 img3 : 
