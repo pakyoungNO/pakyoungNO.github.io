@@ -3,7 +3,7 @@ layout: post
 category : docs
 tagline: "Example helium post in markdown and html classes"
 tags : [jekyll, code, markdown]
-img : markdown-samples.jpg
+img : /assets/images/blog/[완성]smartmobile사진.png
 img2 : 
 img3 : 
 author : Antonio Trento
