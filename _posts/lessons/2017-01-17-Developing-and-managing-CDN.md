@@ -3,7 +3,7 @@ layout: post
 category : lessons
 tagline: "How to test your Jekyll site locally"
 tags : [intro, beginner, jekyll, tutorial]
-img : helium-theme-post.jpg
+img : /assets/images/blog/[완성]비트코인사진.png
 img-mobile : 
 img2 : 
 img3 : 
