@@ -1,4 +1,11 @@
+이 사이트는 hi-iot 사이트를 만들기 위해 사용한 레파지토리이다.
+ helium jekyll를 바탕으로 dmqa연구실사이트를 모방하여 만들었다.
+ 내 개인적인 무언갈 넣지 않았다. 대부분 helim jekyll에 있던 components에서 가져와 사용하였다.
+ 
+---------------------------------------------------------------------------------------------------------------------
+
 # Helium Jekyll
+
 ## A new Bootstrap 4 theme
 
 ## The project is no longer mantained
