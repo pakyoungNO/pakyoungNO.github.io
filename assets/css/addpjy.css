@@ -2,3 +2,7 @@
 .second-color{color: #eb586f;}
 .second-width{width: 70;}
 .default-footer-copy{background:#232935;padding-bottom: 20px;padding-top: 20px;}
+.box{border:1px solid; border-radius: 12px; overflow:hidden;}
+
+.professor-container{max-width: 960px; width: 100px; padding-right: 15px; padding-left: 15px; margin-right: auto; margin-left: auto;}
+.professor-row{display: flex; flex-wrap: wrap; margin-right: -15px; margin-left: -15px;}
