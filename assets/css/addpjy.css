@@ -12,18 +12,20 @@
 .professor-parent{
     width: 70%;
     margin: 10px auto;
+    display: flex;
 }
 
 .professor-first {
     border: 1px solid red;
-    float: left;
-    width:35%;
+    flex:1;
+    width: 35%;
     box-sizing: border-box;
 }
 
 .professor-second{
     border: 1px solid green;
-    float: right;
+    flex:1;
+    
     width:35%;
     box-sizing: border-box;
 }
