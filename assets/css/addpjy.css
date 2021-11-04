@@ -20,6 +20,7 @@
     flex:1;
     width: 35%;
     box-sizing: border-box;
+    padding-right: 5%;
 }
 
 .professor-second{
@@ -28,4 +29,5 @@
     
     width:35%;
     box-sizing: border-box;
+    padding-left: 3%;
 }
