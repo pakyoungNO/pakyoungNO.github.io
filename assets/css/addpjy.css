@@ -24,7 +24,6 @@
 .professor-second{
     border: 1px solid green;
     float: right;
-    margin-left: 5%;
     width:40%;
     box-sizing: border-box;
 }
