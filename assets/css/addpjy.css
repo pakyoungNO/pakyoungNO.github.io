@@ -52,3 +52,31 @@
     position: relative;
     padding: 30px;
 }
+.professor-1-firstcontent{
+    margin-bottom: 20;
+}
+.professor-name{
+    font-size: 20px;
+    line-height: 35px;
+    margin-bottom: 12px;
+    font-weight: 600;
+}
+
+.professor-professor{
+    font-size: 15px;
+    font-weight: 500;
+    color: #760023;
+    margin-bottom: 3px;
+}
+.professor-university{
+    font-size: 15px;
+    font-weight: 500;
+    color: #333;
+    line-height: 23px;
+}
+.professor-contact{
+    font-size: 15px;
+    color: #848484;
+    line-height: 26px;
+    font-weight: 400;
+}
