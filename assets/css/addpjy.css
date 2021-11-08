@@ -9,18 +9,25 @@
 .professor-firstblank1{-webkit-box-flex: 0; flex: 0 0 41.666667%; max-width: 41.666667%; position: relative; width: 100%; min-height: 1px; padding-right: 15px; padding-left: 15px;}
 .professor-secondblank1{-webkit-box-flex: 0; flex: 0 0 50%; max-width: 50%; position: relative; width: 100%; min-height: 1px; padding-right: 15px; padding-left: 15px; margin-left: 8.333333%;}
 .professor-firstblank1-1{padding: 0; position: relative; box-shadow: 0 5px 25px 0 rgb(204, 204, 204 / 75%); border-radius: 12px; overflow: hidden; margin-top: 0; transition: margin-top 0.5s;}
+
+/* 내용 들어갈 장소 할당해주기. display: flex 이용 */
 .professor-parent{
     width: 78%;
     margin: 10px auto;
     display: flex;
+    padding: 70px 0 50px 0;
 }
 
 .professor-first {
-    border: 1px solid red;
+    
+    border-radius: 12px;
+    box-shadow: 0 5px 25px 0 rgb(204, 204, 204 / 75%);
     flex: 1;
     max-width: 38%; /* 0.385*/
     box-sizing: border-box; /* 이 boreder-box라는 부분은 경계선의 두께까지 포함한다는 
     의미이다.*/
+    margin-top: 0;
+
 }
 .professor-middle{
     
@@ -35,3 +42,5 @@
     max-width: 52%; /* 0.512*/
     box-sizing: border-box;
 }
+
+/* 박스 안의 텍스트 및 그림 위치 잡아주기. */
