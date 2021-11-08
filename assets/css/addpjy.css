@@ -19,7 +19,7 @@
 }
 
 .professor-first {
-    
+    border: 1px solid rgb(204, 204, 204);
     border-radius: 12px;
     box-shadow: 0 5px 25px 0 rgb(204, 204, 204 / 75%);
     flex: 1;
