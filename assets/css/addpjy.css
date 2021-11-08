@@ -18,20 +18,20 @@
 .professor-first {
     border: 1px solid red;
     flex: 1;
-    max-width: 30%;
+    max-width: 38%; /* 0.385*/
     box-sizing: border-box; /* 이 boreder-box라는 부분은 경계선의 두께까지 포함한다는 
     의미이다.*/
 }
 .professor-middle{
     
-    width: 8%;
-    box-sizing: border-box;
+    max-width: 10%;
+    box-sizing: border-box; /* 0.1*/
     margin: 0 auto;
 }
 .professor-second{
     border: 1px solid green;
     flex: 1;
     
-    max-width: 40%;
+    max-width: 52%; /* 0.512*/
     box-sizing: border-box;
 }
