@@ -17,9 +17,10 @@
 
 .professor-first {
     border: 1px solid red;
-    flex:1;
+    flex: 0 1 0;
     width: 30%;
-    box-sizing: border-box;
+    box-sizing: border-box; /* 이 boreder-box라는 부분은 경계선의 두께까지 포함한다는 
+    의미이다.*/
 }
 .professor-middle{
     
@@ -28,7 +29,7 @@
 }
 .professor-second{
     border: 1px solid green;
-    flex:1;
+    flex: 0 1 0;
     
     width: 40%;
     box-sizing: border-box;
