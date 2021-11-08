@@ -92,17 +92,30 @@
 }
 .professor-contentbox{
     position: relative;
-    padding-left: 60px;
+    
 }
 .professor-deco{
-    position: absolute;
-    content: '';
-    background: #edeff2;
-    width: 3px;
-    height: 100%;
-    left: 0;
-    top: 0;
+    border-radius: 50%;
+    height: 10px;
+    height: 10px;
+    background-color: #760023;
+
 }
 .professor-singleitem{
+    padding-left: 60px;
     margin-bottom: 30px;
+}
+.professor-date{
+    font-size: 13px;
+    font-weight: 500;
+    margin-bottom: 0;
+    position: relative;
+    display: block;
+    color: #760023;
+}
+.professor-text{
+    font-size: 14px;
+    line-height: 22px;
+    color: #848484;
+    font-weight: 400;
 }
