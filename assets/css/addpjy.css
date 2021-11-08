@@ -45,6 +45,9 @@
     max-width: 52%; /* 0.512*/
     box-sizing: border-box;
     overflow: hidden;
+    padding: 40px 50px;
+    margin-bottom: 60px;
+
 }
 
 /* 박스 안의 텍스트 및 그림 위치 잡아주기. */
@@ -79,4 +82,8 @@
     color: #848484;
     line-height: 26px;
     font-weight: 400;
+}
+.professor-education{
+    margin-bottom: 32px;
+    position: relative;
 }
