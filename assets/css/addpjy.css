@@ -21,7 +21,7 @@
 .professor-first {
     border: 1px solid rgb(204, 204, 204);
     border-radius: 12px;
-    box-shadow: 0 5px 25px 0 rgb(204, 204, 204 / 75%);
+    box-shadow: 0 5px 25px 0 rgba(204, 204, 204 / 75%);
     flex: 1;
     max-width: 38%; /* 0.385*/
     box-sizing: border-box; /* 이 boreder-box라는 부분은 경계선의 두께까지 포함한다는 
