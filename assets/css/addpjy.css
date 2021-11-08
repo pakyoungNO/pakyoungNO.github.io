@@ -90,3 +90,19 @@
     margin-bottom: 32px;
     position: relative;
 }
+.professor-contentbox{
+    position: relative;
+    padding-left: 60px;
+}
+.professor-deco{
+    position: absolute;
+    content: '';
+    background: #edeff2;
+    width: 3px;
+    height: 100%;
+    left: 0;
+    top: 0;
+}
+.professor-singleitem{
+    margin-bottom: 30px;
+}
